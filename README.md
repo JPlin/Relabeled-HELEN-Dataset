@@ -2,6 +2,8 @@
 
 The HELEN* dataset is a rectified version of the original [HELEN dataset](http://pages.cs.wisc.edu/~lizhang/projects/face-parsing/SmithCVPR2013_dataset_original.zip).
 
+You could download the dataset using ( [Google Drive](https://drive.google.com/file/d/1CEeVnqR6JmiZ9_p_eVWAUouQMxGnCiLL/view?usp=sharing) | [Baidu Drive](https://pan.baidu.com/s/1pP3ivgRLhH2Eax_sOxI6DQ) | [Dropbox](https://www.dropbox.com/s/hgixfsj2ea8qwrq/helenstar_release.7z?dl=0) )
+
 File structure:
 ```python
 train/ # the training set
